@@ -4,7 +4,7 @@
 - 🕹️ My main inspirations are Alien Isolation for its use of an AI director, Spelunky for its prdictable, yet challenging AI plus its level generation, and lastly the Metal Gear Solid series for its guard AI and use of finite state machines.  
 - 💞️ I’m looking to collaborate on game projects requiring a programmer, especially if they involve issues I've never experienced before. It would be exciting to learn while woking on a project and tackling problems together in a team. 
 
- - 🛠️ Lastly, I'm currently working on a solo AI project involving two seperate AI's in competition against each other, a stealth AI and a guard AI. I will make progress on this over the summer holiday. 
+ - 🛠️ Lastly, I'm currently working on a solo AI project involving two seperate AI's in competition against each other. It's my first time making something like this so I'm super excited.
 
 - 📫 Contact info below 
 - 📧 Email: lewscott57@yahoo.co.uk
